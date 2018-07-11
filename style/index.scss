@@ -1,0 +1,9 @@
+body{
+  background-color: #fff;
+  color: rgba(75, 75, 75, 0.87);
+  &.set{
+    background: green;
+    position: absolute;
+    top: 0;
+  }
+}

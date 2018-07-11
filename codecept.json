@@ -1,0 +1,17 @@
+{
+  "tests": "./tests/acceptance/*_test.js",
+  "timeout": 10000,
+  "output": "./tests/output",
+  "helpers": {
+    "Nightmare": {
+      "show": true,
+      "typeInterval": 1
+    }
+  },
+  "include": {
+
+  },
+  "bootstrap": false,
+  "mocha": {},
+  "name": "webpackNew"
+}
