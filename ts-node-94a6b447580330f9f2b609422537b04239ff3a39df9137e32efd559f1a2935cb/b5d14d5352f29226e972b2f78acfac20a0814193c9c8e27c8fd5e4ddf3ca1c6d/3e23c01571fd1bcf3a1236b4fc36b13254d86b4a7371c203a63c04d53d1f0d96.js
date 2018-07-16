@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const Enzyme = require("enzyme");
+const Adapter = require("enzyme-adapter-react-16");
+Enzyme.configure({ adapter: new Adapter() });
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiL2hvbWUvbWFrYXJlbmtvZC9Eb2N1bWVudHMvcmVhY3QtbG9jYWxlLWFwcC90ZXN0cy91bml0L3RlbXBsYXRlLnRzIiwic291cmNlcyI6WyIvaG9tZS9tYWthcmVua29kL0RvY3VtZW50cy9yZWFjdC1sb2NhbGUtYXBwL3Rlc3RzL3VuaXQvdGVtcGxhdGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxpQ0FBaUM7QUFDakMsbURBQW1EO0FBQ25ELE1BQU0sQ0FBQyxTQUFTLENBQUMsRUFBQyxPQUFPLEVBQUUsSUFBSSxPQUFPLEVBQUUsRUFBQyxDQUFDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgKiBhcyBFbnp5bWUgZnJvbSBcImVuenltZVwiO1xuaW1wb3J0ICogYXMgQWRhcHRlciBmcm9tIFwiZW56eW1lLWFkYXB0ZXItcmVhY3QtMTZcIjtcbkVuenltZS5jb25maWd1cmUoe2FkYXB0ZXI6IG5ldyBBZGFwdGVyKCl9KTsiXX0=

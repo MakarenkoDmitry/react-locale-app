@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const react_1 = require("react");
+exports.LocaleContext = react_1.default.createContext({
+    language: "",
+    listLanguages: [],
+    languages: {},
+    switchLocale: (language) => void (0)
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiL2hvbWUvbWFrYXJlbmtvZC9Eb2N1bWVudHMvcmVhY3QtbG9jYWxlLWFwcC9zcmMvTG9jYWxlL0xvY2FsZUNvbXBvbmVudC9Mb2NhbGVDb250ZXh0LnRzIiwic291cmNlcyI6WyIvaG9tZS9tYWthcmVua29kL0RvY3VtZW50cy9yZWFjdC1sb2NhbGUtYXBwL3NyYy9Mb2NhbGUvTG9jYWxlQ29tcG9uZW50L0xvY2FsZUNvbnRleHQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxpQ0FBMEI7QUFFYixRQUFBLGFBQWEsR0FBRyxlQUFLLENBQUMsYUFBYSxDQUFDO0lBQzdDLFFBQVEsRUFBRSxFQUFFO0lBQ1osYUFBYSxFQUFFLEVBQUU7SUFDakIsU0FBUyxFQUFFLEVBQUU7SUFDYixZQUFZLEVBQUUsQ0FBQyxRQUFnQixFQUFRLEVBQUUsQ0FBQyxLQUFJLENBQUMsQ0FBQyxDQUFDO0NBQ3BELENBQUMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcblxuZXhwb3J0IGNvbnN0IExvY2FsZUNvbnRleHQgPSBSZWFjdC5jcmVhdGVDb250ZXh0KHtcbiAgICBsYW5ndWFnZTogXCJcIixcbiAgICBsaXN0TGFuZ3VhZ2VzOiBbXSxcbiAgICBsYW5ndWFnZXM6IHt9LFxuICAgIHN3aXRjaExvY2FsZTogKGxhbmd1YWdlOiBzdHJpbmcpOiB2b2lkID0+IHZvaWQoMClcbn0pO1xuIl19
