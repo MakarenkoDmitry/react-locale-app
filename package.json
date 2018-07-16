@@ -1,6 +1,6 @@
 {
   "name": "react-locale-app",
-  "version": "0.0.1-dev",
+  "version": "0.0.2-dev",
   "description": "React component from locale application",
   "main": "index.js",
   "scripts": {
