@@ -1,6 +1,7 @@
 import * as React from "react";
 import { LayoutProps, LayoutPropsTypes } from "./AppProps";
 import { LayoutState } from "./AppState";
+import { Child } from "../ChildComponent";
 
 export class App extends React.Component<LayoutProps, LayoutState> {
     public static readonly propTypes = LayoutPropsTypes;
@@ -13,7 +14,10 @@ export class App extends React.Component<LayoutProps, LayoutState> {
     }
     public render(): JSX.Element {
         return (
-            <div>{this.state.massage}</div>
+            <div>
+                <p>{this.state.massage}</p>
+                <Child/>
+            </div>
         );
     }
 }

@@ -1,6 +1,6 @@
 {
   "name": "react-locale-app",
-  "version": "0.0.1",
+  "version": "0.0.1-dev",
   "description": "React component from locale application",
   "main": "index.js",
   "scripts": {
@@ -59,19 +59,19 @@
     "babel-loader": "^7.1.4",
     "babel-plugin-react-transform": "^3.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-preset-env": "^1.7.0",
     "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-regenerator-runtime": "^6.5.0",
     "css-loader": "^0.28.11",
-    "react": "^16.4.1",
     "prop-types": "^15.6.2",
+    "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-hot-loader": "^4.3.3",
     "sass-loader": "^7.0.3",
-    "tslint-loader": "^3.6.0",
+    "style-loader": "^0.21.0",
     "ts-loader": "^4.4.1",
-    "url-loader": "^1.0.1",
-    "style-loader": "^0.21.0"
+    "tslint-loader": "^3.6.0",
+    "url-loader": "^1.0.1"
   }
 }

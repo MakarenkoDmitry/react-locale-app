@@ -70,7 +70,6 @@ module.exports = (PATH, env, autoprefixer) => {
           query: {
             presets: [
               'react',
-              "latest",
               ['env', {
                 "targets": {
                   "browsers": ["last 2 versions", "safari >= 10", "ie >= 11"],
