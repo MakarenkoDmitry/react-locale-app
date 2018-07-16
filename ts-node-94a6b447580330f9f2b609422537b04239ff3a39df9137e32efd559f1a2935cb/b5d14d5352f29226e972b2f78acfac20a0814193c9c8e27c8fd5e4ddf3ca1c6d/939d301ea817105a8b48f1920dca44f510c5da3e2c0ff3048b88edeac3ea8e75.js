@@ -1,5 +1,0 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var ChildComponent_1 = require("./ChildComponent");
-exports.Child = ChildComponent_1.Child;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiL2hvbWUvbWFrYXJlbmtvZC9Eb2N1bWVudHMvcmVhY3QtbG9jYWxlLWFwcC9zcmMvQ2hpbGRDb21wb25lbnQvaW5kZXgudHMiLCJzb3VyY2VzIjpbIi9ob21lL21ha2FyZW5rb2QvRG9jdW1lbnRzL3JlYWN0LWxvY2FsZS1hcHAvc3JjL0NoaWxkQ29tcG9uZW50L2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsbURBQXlDO0FBQWhDLGlDQUFBLEtBQUssQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCB7IENoaWxkIH0gZnJvbSBcIi4vQ2hpbGRDb21wb25lbnRcIjtcbiJdfQ==
